@@ -1,4 +1,4 @@
-package ec.espe.siamch.patterns.abstractfactory.productos;
+package ec.espe.siamch.patterns.abstractFactory.productos;
 
 import ec.espe.siamch.domain.sensores.SensorTurbidez;
 

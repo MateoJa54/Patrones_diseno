@@ -6,12 +6,12 @@ public class FactoryMethodTest {
     public static void main(String[] args) {
 
         ReportCreator pdfCreator = new PdfReportCreator();
-        pdfCreator.someOperation("Datos de prueba para PDF");
+        pdfCreator.someOperation("Datos ejemplo PDF");
 
         ReportCreator htmlCreator = new HtmlReportCreator();
-        htmlCreator.someOperation("Datos de prueba para HTML");
+        htmlCreator.someOperation("Datos ejemplo HTML");
 
         ReportCreator excelCreator = new ExcelReportCreator();
-        excelCreator.someOperation("Datos de prueba para Excel");
+        excelCreator.someOperation("Datos ejemplo Excel");
     }
 }
