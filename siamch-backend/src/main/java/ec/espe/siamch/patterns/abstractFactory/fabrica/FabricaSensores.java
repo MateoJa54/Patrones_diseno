@@ -1,4 +1,4 @@
-package ec.espe.siamch.patterns.abstractfactory.fabrica;
+package ec.espe.siamch.patterns.abstractFactory.fabrica;
 
 import ec.espe.siamch.domain.sensores.SensorPH;
 import ec.espe.siamch.domain.sensores.SensorTurbidez;

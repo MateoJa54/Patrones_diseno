@@ -2,7 +2,7 @@ package ec.espe.siamch.application;
 
 import ec.espe.siamch.domain.sensores.SensorPH;
 import ec.espe.siamch.domain.sensores.SensorTurbidez;
-import ec.espe.siamch.patterns.abstractfactory.fabrica.FabricaSensores;
+import ec.espe.siamch.patterns.abstractFactory.fabrica.FabricaSensores;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 

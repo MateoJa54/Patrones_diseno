@@ -1,9 +1,9 @@
-package ec.espe.siamch.patterns.abstractfactory.fabrica;
+package ec.espe.siamch.patterns.abstractFactory.fabrica;
 
 import ec.espe.siamch.domain.sensores.SensorPH;
 import ec.espe.siamch.domain.sensores.SensorTurbidez;
-import ec.espe.siamch.patterns.abstractfactory.productos.SensorPHVertiente;
-import ec.espe.siamch.patterns.abstractfactory.productos.SensorTurbidezVertiente;
+import ec.espe.siamch.patterns.abstractFactory.productos.SensorPHVertiente;
+import ec.espe.siamch.patterns.abstractFactory.productos.SensorTurbidezVertiente;
 import org.springframework.stereotype.Component;
 
 @Component("fabricaVertiente")
